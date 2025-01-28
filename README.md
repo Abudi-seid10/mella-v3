@@ -1,43 +1,58 @@
 # Mella Counseling Center Website
 
-A modern, professional website for Mella Counseling Center built with HTML5, CSS3, and JavaScript.
+A modern, responsive website for Mella Counseling Center in Addis Ababa, Ethiopia. Built with HTML, CSS, and JavaScript.
 
 ## Features
 
-- Responsive design that works on all devices
-- Modern and clean user interface
-- Smooth scrolling navigation
-- Interactive service cards
-- Team member profiles
-- Client testimonials
-- Contact form
-- Social media integration
+- 🎨 Modern UI with dark/light mode
+- 📱 Fully responsive design
+- 🔍 SEO optimized
+- 🚀 Fast loading performance
+- 📝 Contact form integration
+- 💫 Smooth animations
+- 🌐 Social media integration
+
+## Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 5.3.2
+- Font Awesome 6.5.1
+
+## Getting Started
+
+1. Clone the repository
+2. Open `index.html` in your browser
+3. For development, use a local server (like Live Server in VS Code)
 
 ## Structure
 
 ```
 mella/
 ├── index.html          # Main HTML file
-├── styles.css          # CSS styles
+├── styles.css          # Custom styles
 ├── script.js           # JavaScript functionality
-└── images/            # Image assets
+├── images/            # Image assets
+└── README.md          # Documentation
 ```
 
-## Setup
+## Contact Information
 
-1. Clone the repository
-2. Open `index.html` in your web browser
-3. Add your images to the `images` folder:
-   - logo.png
-   - hero.jpg
-   - team1.jpg (Selamawit Mosisa)
-   - team2.jpg (Liham kinfe)
+- **Location:** Morning Star Mall, 5th floor office 504, Addis Ababa, Ethiopia
+- **Phone:** +251-925419100
+- **Email:** mellacounseling@gmail.com
 
-## Dependencies
+## Development
 
-- Bootstrap 5.3.2
-- Font Awesome 6.5.1
+- Run `npm install` to install dependencies (if any)
+- Use a modern IDE like VS Code for the best development experience
+- Follow the existing code style and structure
 
 ## Credits
 
-Made with ♥ by MoTech Solutions
+Developed by [MoTech Solutions](https://motech.et)
+
+## License
+
+ 2025 Mella Counseling Center. All rights reserved.
